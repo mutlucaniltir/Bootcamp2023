@@ -34,7 +34,12 @@ Uygulamanın ikincil işlevi: Uygulama ayrıca, daha önceki girişlere dayalı 
 
 ***Sprint 1***
 
-Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+Sprint içinde tamamlanması tahmin edilen puan:30 
+
+User Story 1: Kullanıcılar için giriş ve oturum açma işlevselliği oluşturun (3 puan)
+User Story 2: Firestore ile entegrasyon yapın ve kullanıcı profilleri için bir veritabanı koleksiyonu oluşturun (5 puan)
+User Story 3: Kullanıcının bir market listesi oluşturmasını sağlayın (2 puan)
+Sprint Hedefi: Uygulamada kullanıcı hesaplarının oluşturulması, oturum açma ve market listesi oluşturma işlevselliğini başlatın.
 
 Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
