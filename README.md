@@ -63,6 +63,7 @@ Alışveriş listesi işlevselliğinin kodlaması planlandı ve gelecek sprint i
 Sprint Review Katılımcıları:
 
 Mutlucan İltir
+
 Zeynep Sude Taşkıran
 
 Takım dinamiği ve iletişimini geliştirmek için ek toplantılar planlandı.
