@@ -88,3 +88,9 @@ Sprint Retrospective:
 *Takım üyelerinin gelecek sprintlerde aktif olmaları gerektiğine dikkat çekildi.
 
 *İşlerin zamanında tamamlanabilmesi için daha etkin zaman yönetimi tekniklerinin uygulanmasına karar verildi.
+
+
+Sprint Notları:
+
+Bu sprintte oturum açma işlevi tamamlandı. Görev dağılımı ve zaman yönetimi üzerinde daha çok durulacak.
+
