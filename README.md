@@ -74,8 +74,13 @@ Zeynep Sude Taşkıran
 Sprint Retrospective:
 
 *Takım dinamiği ve iletişimini geliştirmek için ek toplantılar planlandı.
+
 *Scrum Master'ın rolleri ve sorumlulukları ile ilgili belirsizliklerin giderilmesi üzerinde duruldu.
+
 *Görev dağılımının her takım üyesinin yeteneklerine uygun şekilde yapılması kararlaştırıldı.
+
 *Uygulamanın geliştirilmesinde daha hızlı ilerlemek için gelecek sprintlerde daha fazla zaman ayırma konusunda fikir birliğine varıldı.
+
 *Takım üyelerinin gelecek sprintlerde aktif olmaları gerektiğine dikkat çekildi.
+
 *İşlerin zamanında tamamlanabilmesi için daha etkin zaman yönetimi tekniklerinin uygulanmasına karar verildi.
