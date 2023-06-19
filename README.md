@@ -71,6 +71,8 @@ Sprint Review Katılımcıları:
 Mutlucan İltir
 
 Zeynep Sude Taşkıran
+
+
 Sprint Retrospective:
 
 *Takım dinamiği ve iletişimini geliştirmek için ek toplantılar planlandı.
