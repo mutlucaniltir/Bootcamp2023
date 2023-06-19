@@ -51,10 +51,12 @@ Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsa
 Sprint board update: Sprint board screenshotları:![Ekran Resmi 2023-06-18 14 20 48](https://github.com/mutlucaniltir/Bootcamp2023/assets/115038215/c11df464-78c2-44d3-b73a-2cfaab64a8c1)
 
 
-<img width="611" alt="Ekran Resmi 2023-06-18 14 25 22" src="https://github.com/mutlucaniltir/Bootcamp2023/assets/115038215/00d5d8d8-bbe0-4642-9309-94cb1424eda2">
+
 
 ![product1](https://github.com/mutlucaniltir/Bootcamp2023/assets/115038215/aed2a600-3475-4638-8f83-a73576d861c8)
 
+Daily Scrum Chats
+<img width="611" alt="Ekran Resmi 2023-06-18 14 25 22" src="https://github.com/mutlucaniltir/Bootcamp2023/assets/115038215/00d5d8d8-bbe0-4642-9309-94cb1424eda2">
 
 
 Sprint Review:
