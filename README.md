@@ -50,3 +50,24 @@ Sprint board update: Sprint board screenshotları:![Ekran Resmi 2023-06-18 14 20
 
 <img width="611" alt="Ekran Resmi 2023-06-18 14 25 22" src="https://github.com/mutlucaniltir/Bootcamp2023/assets/115038215/00d5d8d8-bbe0-4642-9309-94cb1424eda2">
 
+
+Sprint Review:
+
+Alınan kararlar:
+
+Kullanıcılar için oturum açma özelliği tamamlanmış ve test edilmiştir.
+İlk kullanıcı hikayeleri tamamlanmış, uygulamanın çerçevesi ve ana işlevler belirlenmiştir.
+Bazı görsel bileşenler oluşturulmuş ve kodlanmıştır.
+Alışveriş listesi işlevselliğinin kodlaması planlandı ve gelecek sprint için görevler belirlendi.
+
+Sprint Review Katılımcıları:
+
+Mutlucan İltir
+Zeynep Sude Taşkıran
+
+Takım dinamiği ve iletişimini geliştirmek için ek toplantılar planlandı.
+Scrum Master'ın rolleri ve sorumlulukları ile ilgili belirsizliklerin giderilmesi üzerinde duruldu.
+Görev dağılımının her takım üyesinin yeteneklerine uygun şekilde yapılması kararlaştırıldı.
+Uygulamanın geliştirilmesinde daha hızlı ilerlemek için gelecek sprintlerde daha fazla zaman ayırma konusunda fikir birliğine varıldı.
+Takım üyelerinin gelecek sprintlerde aktif olmaları gerektiğine dikkat çekildi.
+İşlerin zamanında tamamlanabilmesi için daha etkin zaman yönetimi tekniklerinin uygulanmasına karar verildi.
