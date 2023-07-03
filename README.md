@@ -94,3 +94,57 @@ Sprint Notları:
 
 Bu sprintte oturum açma işlevi tamamlandı. Görev dağılımı ve zaman yönetimi üzerinde daha çok durulacak.
 
+
+Sprint 2
+
+Sprint içinde tamamlanması tahmin edilen puan:100
+
+User Story 4: Kullanıcıların oluşturdukları market listesini düzenlemesini ve güncellemesini sağlayın (30 puan) 
+
+User Story 5: Liste öğelerini silebilme işlevselliği ekleyin (20 puan) 
+
+User Story 6: Kullanıcıların listeleri arasında geçiş yapabilmesi için bir arayüz oluşturun (25 puan) 
+
+User Story 7: Uygulamanın genel performansını ve kullanıcı deneyimini artırmak için iyileştirmeler yapın (25 puan) Sprint Hedefi: Kullanıcının oluşturduğu market listesini etkin bir şekilde yönetebilmesi ve uygulama performansını artırmak.
+
+Daily Scrum: Daily Scrum toplantıları Whatsapp üzerinden devam edecek. Sprint 2 Daily Scrum Chats
+
+Sprint board update: ![BOOTCAMPÜ](https://github.com/mutlucaniltir/Bootcamp2023/assets/115038215/cb70d259-365a-4194-b973-29803b43c7a1)
+
+
+product2
+
+Daily Scrum Chats Ekran Resmi:![Uploading WP TALKS.png…]()
+
+
+Sprint Review:
+
+Alınan kararlar:
+
+Kullanıcıların oluşturdukları listeyi düzenleme ve silme özellikleri tamamlanmış ve başarıyla test edilmiştir. 
+
+Kullanıcıların listeler arasında geçiş yapabileceği arayüz geliştirilmiş ve uygulama performansını artırmak adına çeşitli iyileştirmeler yapılmıştır. 
+
+Bu süreçte takımın iş birliği ve eş güdümü ile hızlı ve verimli bir şekilde ilerlendiği görülmüştür.
+
+Sprint Review Katılımcıları:
+
+Mutlucan İltir
+
+Zeynep Sude Taşkıran
+
+Sprint Retrospective:
+
+*İlk sprint'ten çıkan derslerle, bu sprint'te zaman yönetimi ve görev dağılımında önemli iyileştirmeler oldu.
+
+*Takımın iletişimi gelişti ve bu da işlerin hızlanmasında önemli bir rol oynadı.
+
+*Uygulamanın kullanıcı deneyimine odaklanan daha fazla özellik eklemeye karar verildi.
+
+*Kod kalitesini artırmak ve hataları en aza indirmek için daha fazla testin yapılması planlandı.
+
+*Sprint'in sonunda herkesin üzerinde çalıştığı görevleri net bir şekilde belirtmesi gerektiği konusunda hemfikir olundu.
+
+Sprint Notları:
+
+Bu sprintte listelerin düzenlenmesi ve silinmesi işlevleri başarıyla tamamlandı. Takımın iletişimi ve iş birliği daha da güçlendi. Bu deneyimlerin ışığında, gelecek sprintte uygulamanın kullanıcı deneyimini iyileştirecek ve uygulamanın genel performansını artıracak daha fazla özellik eklemeye odaklanılacak.
