@@ -169,7 +169,9 @@ Daily Scrum: Daily Scrum toplantıları Whatsapp üzerinden devam edecek. Sprint
 Sprint board update: ![3  sprint board](https://github.com/mutlucaniltir/Bootcamp2023/assets/115038215/609b75f3-1323-4964-adad-d02ce9072bcd)
 
 
-Daily Scrum Chats Ekran Resmi: 
+Daily Scrum Chats Ekran Resmi: [scrum.docx](https://github.com/mutlucaniltir/Bootcamp2023/files/12067100/scrum.docx)
+
+
 
 ![app screen](https://github.com/mutlucaniltir/Bootcamp2023/assets/115038215/643a01ce-6aea-447d-9afe-b6fec85d8ba3)
 
