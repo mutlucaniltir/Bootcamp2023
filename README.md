@@ -206,4 +206,4 @@ Sprint Retrospective:
 
 Sprint Notları:
 
-Bu sprintte öneri işlevi, satın alınan ürünlerin işaretlenmesi ve silinmesi işlevleri, ve kullanıcı rolleri ve ekranları üzerinde önemli iyileştirmeler yapıldı. Takımın verimliliği ve uyumu devam ederken, kod kalitesi ve kullanıcı deneyimini iyileştirmek için adımlar atıldı. Gelecek sprintlerde bu başarının devam etmesi bekleniyor.
+Bu sprintte öneri işlevi, satın alınan ürünlerin işaretlenmesi ve silinmesi işlevleri, ve kullanıcı rolleri ve ekranları üzerinde önemli iyileştirmeler yapıldı. Takımın verimliliği ve uyumu devam ederken, kod kalitesi ve kullanıcı deneyimini iyileştirmek için adımlar atıldı.
