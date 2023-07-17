@@ -148,3 +148,60 @@ Sprint Retrospective:
 Sprint Notları:
 
 Bu sprintte listelerin düzenlenmesi ve silinmesi işlevleri başarıyla tamamlandı. Takımın iletişimi ve iş birliği daha da güçlendi. Bu deneyimlerin ışığında, gelecek sprintte uygulamanın kullanıcı deneyimini iyileştirecek ve uygulamanın genel performansını artıracak daha fazla özellik eklemeye odaklanılacak.
+
+
+
+
+Sprint 3
+
+Sprint içinde tamamlanması tahmin edilen puan:100
+
+User Story 8: Uygulamanın öneri işlevini geliştirin ve kullanıcıların daha önce ekledikleri öğeleri temel alarak öneriler yapılmasını sağlayın (35 puan)
+
+User Story 9: Satın alınan öğeleri işaretleyebilme ve bu öğeleri ortak listeden kaldırabilme yeteneğini geliştirin (30 puan)
+
+User Story 10: Kullanıcı rolleri, özellikleri ve ekranlarını optimize edin (35 puan)
+
+Sprint Hedefi: Uygulamanın öneri işlevselliğini geliştirmek, satın alınan ürünlerin işaretlenmesi ve silinmesi işlevlerini optimize etmek ve kullanıcı rollerini ve ekranları daha kullanıcı dostu hale getirmek.
+
+Daily Scrum: Daily Scrum toplantıları Whatsapp üzerinden devam edecek. Sprint 3 Daily Scrum Chats
+
+Sprint board update: ![3  sprint board](https://github.com/mutlucaniltir/Bootcamp2023/assets/115038215/609b75f3-1323-4964-adad-d02ce9072bcd)
+
+
+Daily Scrum Chats Ekran Resmi: 
+
+![app screen](https://github.com/mutlucaniltir/Bootcamp2023/assets/115038215/643a01ce-6aea-447d-9afe-b6fec85d8ba3)
+
+
+Sprint Review:
+
+Alınan kararlar:
+
+Uygulamanın öneri özelliği, kullanıcıların daha önce eklediği ürünleri temel alarak öneriler yapacak şekilde geliştirilmiştir.
+
+Satın alınan ürünlerin işaretlenmesi ve silinmesi özellikleri optimize edilmiştir.
+
+Kullanıcı rolleri ve ekranları daha kullanıcı dostu hale getirilmiştir ve bu değişiklikler tüm takım üyeleri tarafından test edilmiştir.
+
+Sprint Review Katılımcıları:
+
+Mutlucan İltir
+
+Zeynep Sude Taşkıran
+
+Sprint Retrospective:
+
+*Bu sprint'in hedefleri başarıyla tamamlandı ve tüm işlevler eksiksiz ve hatalarsız bir şekilde çalıştı.
+
+*Takım üyeleri arasındaki işbirliği ve iletişim, işleri daha hızlı ve daha verimli bir şekilde tamamlamada yardımcı oldu.
+
+*Kullanıcı deneyimine daha çok odaklanmak ve uygulamanın genel performansını artırmak için ek özelliklerin eklenmesi planlandı.
+
+*Yapılan işlerin belirli bir standardı sürdürmesi ve hataların en aza indirilmesi için daha fazla test yapılması konusunda hemfikir olundu.
+
+*Kullanıcılar için daha kullanışlı ve pratik bir uygulama oluşturma hedefiyle, uygulamanın son kullanıcının beklentilerini karşılayacak şekilde sürekli geliştirilmesi kararlaştırıldı.
+
+Sprint Notları:
+
+Bu sprintte öneri işlevi, satın alınan ürünlerin işaretlenmesi ve silinmesi işlevleri, ve kullanıcı rolleri ve ekranları üzerinde önemli iyileştirmeler yapıldı. Takımın verimliliği ve uyumu devam ederken, kod kalitesi ve kullanıcı deneyimini iyileştirmek için adımlar atıldı. Gelecek sprintlerde bu başarının devam etmesi bekleniyor.
